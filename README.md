@@ -1,5 +1,7 @@
 # Criando certificados 
 
+Windows>>
+
 Instalação do OpenSS-L Na maquina
 https://slproweb.com/products/Win32OpenSSL.html
 
