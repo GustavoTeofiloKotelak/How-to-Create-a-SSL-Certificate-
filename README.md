@@ -58,7 +58,7 @@ commonName             = opx.com (ou IP)
 [req_ext]
 subjectAltName = IP:192.168.18.192
 ```
-Alterar o que for necessário
+Alterar como for necessário
 
 2. Gera um certificado autoassinado para uma Autoridade Certificadora (CA), usando configurações do arquivo openssl.cnf.
 ```
